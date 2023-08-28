@@ -1,5 +1,5 @@
 
-<h1>Investigate a suspicious file hash</h1>
+<h1>Investigate a suspicious file hash and respond alert</h1>
 <h2>Description</h2>
 In your role as a Level One analyst within the Security Operations Center (SOC) of a financial services firm, you've recently been alerted to a concerning incident. This incident involves the download of a suspicious file onto an employee's workstation.
 
@@ -39,7 +39,7 @@ I entered the SHA256 file hash in the search box to determine that the file hash
 After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that you have this information, you must follow your organization's process to complete your investigation and resolve the alert.
 
 <h2>Use a playbook to respond to a phishing incident</h2>
-Physing Flowchart provided by the Financial Services Firm. The flowchart is part of the playbook which is considered the manual or step-by-step process to respond to certain incidents 
+Physing Flowchart is provided by the Financial Services Firm. The flowchart is part of the playbook which is considered the manual or step-by-step process to respond to certain incidents. 
 
 ![Screenshot 2023-08-28 3 05 34 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/c9b5240c-1018-49ae-9419-6af7d89201c2)
 
