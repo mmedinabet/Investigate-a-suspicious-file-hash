@@ -35,4 +35,18 @@ I entered the SHA256 file hash in the search box to determine that the file hash
 
 ![Screenshot 2023-08-26 10 06 05 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/f3d16663-db67-4743-a4f4-64f0bfc4b8fe)
 
+<h2> </h2>
+After investigating the email attachment file's hash, the attachment has already been verified malicious. Now that you have this information, you must follow your organization's process to complete your investigation and resolve the alert.
+
+<h2>Use a playbook to respond to a phishing incident</h2>
+Physing Flowchart provided by the Financial Services Firm. The flowchart is part of the playbook which is considered the manual or step-by-step process to respond to certain incidents 
+
+![Screenshot 2023-08-28 3 05 34 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/c9b5240c-1018-49ae-9419-6af7d89201c2)
+
+<h2>Completed Alert Ticket</h2>
+
+![Screenshot 2023-08-28 3 03 24 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/89467da7-613c-414b-9e61-057c9c8ab180)
+
+
+![Screenshot 2023-08-28 3 03 50 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/3a5c5ac8-372b-4799-884f-9018d0fec250)
 
