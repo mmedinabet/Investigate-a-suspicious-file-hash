@@ -50,3 +50,6 @@ Physing Flowchart is provided by the Financial Services Firm. The flowchart is p
 
 ![Screenshot 2023-08-28 3 03 50 PM](https://github.com/mmedinabet/Investigate-a-suspicious-file-hash/assets/142737434/3a5c5ac8-372b-4799-884f-9018d0fec250)
 
+<h2>Summary</h2>
+In response to the alert regarding the download of a suspicious file onto an employee's workstation, I conducted a thorough investigation to assess the situation. The timeline of events revealed that the employee received an email with a password-protected spreadsheet attachment, leading to the activation of unauthorized executable files on their computer. By generating the SHA256 hash value for the malicious file and utilizing VirusTotal for analysis, it was confirmed that the file had been flagged as malicious by numerous vendors and sandboxes. Following the organization's playbook for phishing incidents, I took appropriate steps to document the incident, resolve the alert, and ensure the security of our systems. This incident underscores the importance of robust cybersecurity measures and ongoing vigilance to mitigate risks posed by malicious actors.
+
